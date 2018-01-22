@@ -1,5 +1,7 @@
 # Spring MVC 4.2.4.RELEASE 中文文档 [![][Badges: Travis CI]][Links: Travis CI] [![][Badges: Github Issues Open]][Links: Github Issues Open] [![][Badges: Github Issues Closed]][Links: Github Issues Closed]
 
+> 本开源书 forked from [Spring MVC 4.2.4.RELEASE 中文文档](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)，作者为 [linesh-simplicity](https://github.com/linesh-simplicity)，欢迎大家 star 原作者的 [repo](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)，以便获得最新更新，谢谢！
+
 ![Spring Logo](./spring-logo.png)
 
 本项目翻译的是[Spring MVC官方4.2.4.RELEASE版本的文档][Origin documentation]，包含原文档第21章Spring MVC部分的全部内容。译文尽力于准确传达原意，其次兼顾译文的流畅自然。至于风格和质感，则仍在努力。希望它能为读者带来查阅、学习的价值，自己时不时翻之，仍有收获。
